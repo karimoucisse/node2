@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "date.js",
   "dependencies": {
+    "moment": "^2.29.1",
     "months": "^2.1.0"
   },
   "devDependencies": {},
